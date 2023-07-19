@@ -41,6 +41,8 @@ function App() {
       {/* <Card>
      <Product items={products}></Product>
       </Card> */}
+
+      {/* for learning git purpose lot */}
      <NewProduct/>
     </div>
   );
